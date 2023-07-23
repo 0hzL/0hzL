@@ -7,7 +7,7 @@
 <p align="center"> Techs that I've used at least once </p>
 
 
-<h4 align="center"> Back-End </h4>
+<h4 align="center"> 🖥 Back-End 🖥 </h4>
 <p align="center">
   <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/Javascript-ffb13b?style=flat-square&logo=javascript&logoColor=white"/></a>&nbsp 
