@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:B8E0FC,100:85B9DB&height=300&section=header&text=OhzL%20GitHub&fontSize=80&fontColor=FFFAFA&desc=배움을%20즐기는%20신입%20개발자!&DescSize=90!&fontAlign=50&fontAlignY=40&descAlign=63&descAlignY=53) 
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:B8E0FC,100:85B9DB&height=300&section=header&text=OhzL%20GitHub&fontSize=80&fontColor=FFFAFA&desc=A%20new%20developer%20who%20enjoys%20learning!&DescSize=90!&fontAlign=50&fontAlignY=40&descAlign=63&descAlignY=53) 
 
 
 
