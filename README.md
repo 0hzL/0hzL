@@ -2,4 +2,4 @@
 
 
 
-![reversal](https://capsule-render.vercel.app/api?type=rect&text=0hzL&fontAlign=30&fontSize=30&desc=Welcome%20to%20My%20GitHub!&descAlign=60&descAlignY=50&theme=tokyonight)
+![reversal](https://capsule-render.vercel.app/api?type=rect&animation-blinking&text=0hzL&fontAlign=30&fontSize=30&desc=Welcome%20to%20My%20GitHub!&descAlign=60&descAlignY=50&theme=tokyonight)
